@@ -19,7 +19,7 @@ This playlist will walk you through LoRaWAN based board design that utilizes STM
 In this tutorial, I am sharing my experience in Altium Designer component library formation. minimized schematics and footprint library type is used along the journey of LoRaWAN based board design. It is always a plus for electronics engineer to have good commands in component library management. 
 
 
-![Circuit Diagram](https://github.com/UsefulElectronics/esp32-depg750bn-epaper-cale-idf-/blob/master/System%20Diagram/System%20Diagram.PNG)
+![Circuit Diagram](https://github.com/UsefulElectronics/altium-component-library/blob/main/cover/altium1.png)
 
 
 # Altium Designer LoRaWAN Board Schematics Design
@@ -29,7 +29,7 @@ In this tutorial, I am sharing my experience in Altium Designer component librar
 In this tutorial,  LoRaWAN sensor hub board schematics design is done using Altium Designer. All of the used circuit diagrams used in this design are discussed in details. 
 
 In addition to covering Altium designer schematics design commands to Topics to be covered in this tutorial are:
-- Li-Ion Battery Charging Circuit
+- Li-Ion Battery Charging Circuit-
 - Battery  Protection Circuit
 - LDR, NTC Sensors Interface
 - Low Drop Voltage Regulator 
@@ -37,7 +37,7 @@ In addition to covering Altium designer schematics design commands to Topics to 
 - The Use of Pullup and Pulldown Resistors 
 
 
-![Circuit Diagram](https://github.com/UsefulElectronics/esp32-depg750bn-epaper-cale-idf-/blob/master/System%20Diagram/System%20Diagram.PNG)
+![Circuit Diagram](https://github.com/UsefulElectronics/altium-component-library/blob/main/cover/altium2.png)
 
 
 
