@@ -56,7 +56,7 @@ During the tutorial the following topics are discussed:
 - Stitching vias.
 
 
-![Circuit Diagram](https://github.com/UsefulElectronics/altium-component-library/blob/main/cover/altium2.png)
+![Circuit Diagram](https://github.com/UsefulElectronics/altium-component-library/blob/main/cover/PCB.png)
 
 
 
