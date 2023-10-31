@@ -7,6 +7,7 @@ Tutorial Series Sponsor PCBWay Website. You can get extra free coupons using the
 
 [<img src="https://github.com/UsefulElectronics/RaspberryPi-Alternative-BPi-M3-Remote-Development/blob/main/Pictures/250x250.gif">](https://www.pcbway.com/setinvite.aspx?inviteid=582640)
 
+***
 
 # Altium Designer Component Library
 
@@ -21,6 +22,7 @@ In this tutorial, I am sharing my experience in Altium Designer component librar
 
 ![Circuit Diagram](https://github.com/UsefulElectronics/altium-component-library/blob/main/cover/altium1.png)
 
+***
 
 # Altium Designer LoRaWAN Board Schematics Design
 
@@ -35,6 +37,23 @@ In addition to covering Altium designer schematics design commands to Topics to 
 - Low Drop Voltage Regulator 
 - The Use of Bypass Capacitors
 - The Use of Pullup and Pulldown Resistors 
+
+
+![Circuit Diagram](https://github.com/UsefulElectronics/altium-component-library/blob/main/cover/altium2.png)
+
+***
+
+# Altium STM32WLE LoRaWAN PCB Layout Design
+
+### [Tutorial Link](https://youtu.be/XMJNIcu-_3w) On [![Build Status](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/wardzx1) 
+
+In this tutorial,  STM32WLE5 LoRaWAN sensor hub PCB layout design is done using Altium Designer. Layout design steps, useful shortcuts and Altium command tips are shared.
+ 
+During the tutorial the following topics are discussed:
+- Optimized component placement.
+- Interactive routing. 
+- Polygon ground plane.
+- Stitching vias.
 
 
 ![Circuit Diagram](https://github.com/UsefulElectronics/altium-component-library/blob/main/cover/altium2.png)
